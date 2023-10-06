@@ -6,4 +6,5 @@
 
 # 課程筆記區 <br>
 # 作業連結區 <br>
+<a href="https://github.com/Min901128/PL/blob/main/HW1/PLHW1.ipynb">HW1</a>
 # 專題連結區 <br>
