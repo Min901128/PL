@@ -1,0 +1,22 @@
+{
+    "Student" : [
+      {
+        "name" : "A",
+        "class" : 1,
+        "Chinese" : 90,
+        "English" : 80
+      },
+      {
+        "name" : "B",
+        "class" : 2,
+        "Chinese" : 85,
+        "English" : 60
+      },
+      {
+        "name" : "C",
+        "class" : 3,
+        "Chinese" : 59,
+        "English" : 100
+      }
+    ]
+  }

@@ -1,0 +1,21 @@
+{
+  "Member": [
+    {"Name":"A", 
+      "Class": 1,
+      "Chinese": 90,
+      "English": 80
+    },
+    {
+      "Name":"B", 
+      "Class": 2,
+      "Chinese": 80,
+      "English": 85
+    },
+    {
+      "Name":"C", 
+      "Class": 3,
+      "Chinese": 70,
+      "English": 60
+    }
+  ]
+}
