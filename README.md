@@ -10,6 +10,6 @@
 <br>
 <a href="https://github.com/Min901128/PL/blob/main/HW2/HW2.ipynb">HW2</a>
 <br>
-<a href="https://github.com/Min901128/PL/blob/main/HW3/HW3.ipynb">HW2</a>
+<a href="https://github.com/Min901128/PL/blob/main/HW3/HW3.ipynb">HW3</a>
 
 # 專題連結區 <br>
