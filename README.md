@@ -11,5 +11,8 @@
 <a href="https://github.com/Min901128/PL/blob/main/HW2/HW2.ipynb">HW2</a>
 <br>
 <a href="https://github.com/Min901128/PL/blob/main/HW3/HW3.ipynb">HW3</a>
+<br>
+<a href="https://github.com/Min901128/PL/blob/main/HW4/HW4.ipynb">HW4</a>
+<a href="https://medium.com/@40971204h/大型重機上國道議題-81ee09c0d99f">Medium</a>
 
 # 專題連結區 <br>
