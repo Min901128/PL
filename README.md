@@ -16,6 +16,7 @@
 <a href="https://medium.com/@40971204h/大型重機上國道議題-81ee09c0d99f">Medium</a>
 <br>
 <a href="https://github.com/Min901128/PL/blob/main/HW5/HW5.ipynb">HW5</a>
+<a href="https://medium.com/@40971204h/%E6%B3%95%E6%A2%9D%E5%BF%AB%E9%80%9F%E6%9F%A5%E8%A9%A2%E7%B3%BB%E7%B5%B1-c295005ece8a">Medium</a>
 
 
 
